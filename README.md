@@ -24,8 +24,6 @@ movies
 ├── Archivos necesarios para el guardado y lectura de la aplicación en Django
 movies_api
 ├── Archivos de configuración del proyecto en Django
-venv
-├── Entorno virtual de python
 manage.py
 ```
 
