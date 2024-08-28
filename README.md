@@ -31,7 +31,7 @@ manage.py
 
 ### Página Web
 
-![App Screenshot](https://via.placeholder.com/700x400?text=App+Screenshot+Here)
+![Ver todas las películas](assets/ver_peliculas.png)
 
 ## Instalación
 
@@ -125,24 +125,24 @@ npm run dev
 
 ### Inicio página Web
 
-![App Screenshot](assets/inicio_pagina.png)
+![Inicio de página sin películas](assets/inicio_pagina.png)
 
 ### Crear una película
 
-![App Screenshot](assets/crear_pelicula.png)
+![Crear una película](assets/crear_pelicula.png)
 
 ### Visualización de películas
 
-![App Screenshot](assets/ver_peliculas.png)
+![Ver todas las películas](assets/ver_peliculas.png)
 
 ### Película seleccionada
 
-![App Screenshot](assets/pelicula_id.png)
+![Película por ID](assets/pelicula_id.png)
 
 ### Actualizar una película
 
-![App Screenshot](assets/actualizar_pelicula.png)
+![Actualizar una película](assets/actualizar_pelicula.png)
 
 ### Eliminar una Película
 
-![App Screenshot](assets/delete_pelicula.png)
+![Eliminar una película](assets/delete_pelicula.png)
