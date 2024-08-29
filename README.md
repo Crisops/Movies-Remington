@@ -53,7 +53,7 @@ Una vez creado el entorno virtual seleccionalo y asegurate que lo estes utilizan
 #### Pasos a seguir
 
 ```
-git clone https://github.com/Crisops/CRUD-REMINGTON.git
+git clone https://github.com/Crisops/Movies-Remington.git
 ```
 
 Abrimos Visual Studio Code y en la terminal integrada creamos **dos** terminales:
