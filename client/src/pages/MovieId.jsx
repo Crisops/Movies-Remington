@@ -12,11 +12,7 @@ export const MovieId = () => {
 
   if(error) return <ErrorMovies/>
 
-  const movie = movies.find(movie => movie.id === Number(id))
-
-  if(!movie) return <p>Movie not found</p>
-  
-  
+  const movie = movies.find(movie => movie.id === Number(id))  
 
   return (
     <>
