@@ -1,6 +1,6 @@
 
 export const ErrorMovieFound = () => {
   return (
-    <div>ErrorMovieFound</div>
+    <div className="text-white">No se encontro ninguna película</div>
   )
 }
