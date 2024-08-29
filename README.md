@@ -25,6 +25,7 @@ movies
 movies_api
 ├── Archivos de configuración del proyecto en Django
 manage.py
+requirements.txt
 ```
 
 ### Página Web
