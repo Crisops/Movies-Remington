@@ -79,14 +79,14 @@ cd client
 npm install
 ```
 
-## Environment Variables
+## Variables de Entorno
 
-Para correr este projecto, tu necesitas añadir las siguientes variables de entorno en tu archivo .env
+Para correr este projecto, tu necesitas añadir las siguientes variables de entorno en tu archivo `.env`
 
 `DB_NAME` `DB_HOST` `DB_PORT` `DB_USER` `DB_PASSWORD`
 
 > [!WARNING]
-> En la carpeta `movies_api` en el archivo `setting.py` cambiar las credenciales por las suyas y el dominio en `CORS_ALLOWED_ORIGINS` el cual acepta las peticiones del Frontend.
+> En la carpeta `movies_api` en el archivo `settings.py` cambia las credenciales por las tuyas y el puerto de dominio en `CORS_ALLOWED_ORIGINS` el cual acepta las peticiones del Frontend en caso de que sea distino al "5173".
 
 ```
 DATABASES = {
